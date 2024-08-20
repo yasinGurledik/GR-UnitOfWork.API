@@ -1,0 +1,6 @@
+@GR_UnitOfWork.API_HostAddress = http://localhost:5193
+
+GET {{GR_UnitOfWork.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
